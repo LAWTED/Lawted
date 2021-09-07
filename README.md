@@ -8,9 +8,6 @@
 
 ###### ![LAWTED](https://visitor-badge.glitch.me/badge?page_id=LAWTED.profile)
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAWTED&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
 - 🔭 I’m currently working on @Tencent 🐧
 - 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - 💻 I'm currently writing 
@@ -23,7 +20,7 @@
 
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAWTED&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 Find me on:![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)[GitHub](https://github.com/LAWTED) | ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)[wechat:Lawted]() | 📫 [Email](mailto:wmz@bupt.edu.cn) | 
 
