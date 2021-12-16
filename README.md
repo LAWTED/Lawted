@@ -8,8 +8,6 @@
 
 ###### ![LAWTED](https://visitor-badge.glitch.me/badge?page_id=LAWTED.profile)   [![wakatime](https://wakatime.com/badge/user/b538f533-3e8c-4b7b-ab49-7aab7771d31c.svg)](https://wakatime.com/@b538f533-3e8c-4b7b-ab49-7aab7771d31c) 
 
-### 通过题目数/总题目数)
-
 - 🔭 I’m currently working on @Tencent 🐧
 - 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - 💻 I'm currently writing 
