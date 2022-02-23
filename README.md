@@ -29,4 +29,5 @@ Check out my résumé: [English Version](https://github.com/LAWTED/resume/blob/m
 LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/lawted.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/lawted.svg)
 ![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/lawted.svg)
 
-<iframe src="https://giphy.com/embed/MT5UUV1d4CXE2A37Dg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-MT5UUV1d4CXE2A37Dg">via GIPHY</a></p>
+
+![giphy](https://user-images.githubusercontent.com/56634309/155322762-c0819ee4-864c-4fb4-bfdd-42ff716966d8.gif)
