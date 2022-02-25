@@ -28,7 +28,7 @@ Check out my résumé: [English Version](https://github.com/LAWTED/resume/blob/m
 
 ![giphy](https://user-images.githubusercontent.com/56634309/155322762-c0819ee4-864c-4fb4-bfdd-42ff716966d8.gif)![giphy](https://user-images.githubusercontent.com/56634309/155669771-831ea527-7f7a-41d0-828a-f65836719568.gif)
 
-<img src="https://user-images.githubusercontent.com/56634309/155322762-c0819ee4-864c-4fb4-bfdd-42ff716966d8.gif"><img src="https://user-images.githubusercontent.com/56634309/155669771-831ea527-7f7a-41d0-828a-f65836719568.gif">
+<img src="https://user-images.githubusercontent.com/56634309/155322762-c0819ee4-864c-4fb4-bfdd-42ff716966d8.gif" width="50%"><img src="https://user-images.githubusercontent.com/56634309/155669771-831ea527-7f7a-41d0-828a-f65836719568.gif" width="50%">
 
 LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/lawted.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/lawted.svg)
 ![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/lawted.svg)
