@@ -27,7 +27,6 @@ Find me on:![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for
 Check out my résumé: [English Version](https://github.com/LAWTED/resume/blob/master/README.md) | [中文版本](https://github.com/LAWTED/resume/blob/master/README.zh.md)
 
 <img src="https://user-images.githubusercontent.com/56634309/155322762-c0819ee4-864c-4fb4-bfdd-42ff716966d8.gif" alt="giphy"/>
-![Gif By Gif](https://media3.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=790b761197191c048a4e2f4e7418ca2e955c60e7d9af2192&rid=giphy.gif&ct=g)
 
 LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/lawted.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/lawted.svg)
 ![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/lawted.svg)
