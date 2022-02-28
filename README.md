@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LAWTED&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
-## I'm ...
+## I'm **LAWTED**
 
 <p>A creator. </p>A developer. A meta-front-end engineer. A BUPT Student. 
 
@@ -28,5 +28,7 @@ Check out my résumé: [English Version](https://github.com/LAWTED/resume/blob/m
 
 <img src="https://user-images.githubusercontent.com/56634309/155322762-c0819ee4-864c-4fb4-bfdd-42ff716966d8.gif" width="50%"><img src="https://user-images.githubusercontent.com/56634309/155669771-831ea527-7f7a-41d0-828a-f65836719568.gif" width="50%">
 
-# LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/lawted.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/lawted.svg)
+# LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/lawted.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/lawted.svg) ![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/lawted.svg)
 ![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/lawted.svg)
+![](https://leetcode-badge.haozibi.dev/v1cn/chart/ranking/lawted.svg?day=30)
+![](https://leetcode-badge.haozibi.dev/v1cn/chart/solved/lawted.svg?day=30)
