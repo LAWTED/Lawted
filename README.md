@@ -6,7 +6,7 @@
 
 <p>A creator. </p>A developer. A meta-front-end engineer. A BUPT Student. 
 
-###### [![wakatime](https://wakatime.com/badge/user/b538f533-3e8c-4b7b-ab49-7aab7771d31c.svg)](https://wakatime.com/@b538f533-3e8c-4b7b-ab49-7aab7771d31c) 
+###### I have spend [![wakatime](https://wakatime.com/badge/user/b538f533-3e8c-4b7b-ab49-7aab7771d31c.svg)](https://wakatime.com/@b538f533-3e8c-4b7b-ab49-7aab7771d31c) on coding
 
 - 🔭 I’m currently working on @Tencent 🐧
 - 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
