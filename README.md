@@ -6,7 +6,7 @@
 
 <p>A creator. </p>A developer. A meta-front-end engineer. A BUPT Student. 
 
-## Check out my résumé: [English](https://github.com/LAWTED/resume/blob/master/README.md) | [中文](https://github.com/LAWTED/resume/blob/master/README_zh.md)
+## My résumé: [English](https://github.com/LAWTED/resume/blob/master/README.md) | [中文](https://github.com/LAWTED/resume/blob/master/README_zh.md)
 ###### I have spend [![wakatime](https://wakatime.com/badge/user/b538f533-3e8c-4b7b-ab49-7aab7771d31c.svg)](https://wakatime.com/@b538f533-3e8c-4b7b-ab49-7aab7771d31c) on coding
 
 - 🔭 I’m currently working on @Tencent 🐧
@@ -30,6 +30,6 @@ Find me on:![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for
 <img src="https://user-images.githubusercontent.com/56634309/155322762-c0819ee4-864c-4fb4-bfdd-42ff716966d8.gif" width="50%"><img src="https://user-images.githubusercontent.com/56634309/155669771-831ea527-7f7a-41d0-828a-f65836719568.gif" width="50%">
 
 # LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/lawted.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/lawted.svg) ![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/lawted.svg)
+![](https://stats.justsong.cn/api/leetcode?username=lawted&cn=true&theme=dark)
 ![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/lawted.svg)
-![](https://leetcode-badge.haozibi.dev/v1cn/chart/ranking/lawted.svg?day=30)
-![](https://leetcode-badge.haozibi.dev/v1cn/chart/solved/lawted.svg?day=30)
+
