@@ -19,7 +19,7 @@
 - :package: I'm currently using ![Cent OS](https://api.iconify.design/logos:centos-icon.svg) ![IOS](https://api.iconify.design/logos:ios.svg) ![Windows](https://api.iconify.design/logos:microsoft-windows.svg) ![Ubuntu](https://api.iconify.design/logos:ubuntu.svg)
 
 
-Find me on:![GitHub](https://api.iconify.design/fa6-brands:github.svg)[GitHub](https://github.com/LAWTED) | ![WeChat](https://api.iconify.design/ic:baseline-wechat.svg)[wechat:Lawted]() | ![](https://api.iconify.design/fxemoji:email.svg) [Email](mailto:wmz@bupt.edu.cn)
+Find me on:![GitHub](https://api.iconify.design/fa6-brands:github.svg)[GitHub](https://github.com/LAWTED) | ![WeChat](https://api.iconify.design/ic:baseline-wechat.svg)[wechat:Lawted]() | ![email](https://api.iconify.design/fxemoji:email.svg) [Email](mailto:wmz@bupt.edu.cn)
 
 
 ![Lawted's contribution graph](https://activity-graph.herokuapp.com/graph?username=LAWTED&theme=react-dark)
