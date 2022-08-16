@@ -9,21 +9,17 @@
 ## My résumé: [English](https://github.com/LAWTED/resume/blob/master/README.md) | [中文](https://github.com/LAWTED/resume/blob/master/README_zh.md)
 ###### I have spend [![wakatime](https://wakatime.com/badge/user/b538f533-3e8c-4b7b-ab49-7aab7771d31c.svg)](https://wakatime.com/@b538f533-3e8c-4b7b-ab49-7aab7771d31c) on coding
 
-- 🔭 I’m currently working on @Tencent 🐧
-- 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-- 💻 I'm currently writing 
-
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- 🔭 I’m currently working on @Tencent ![tencent](https://api.iconify.design/icon-park:tencent-qq.svg)
+- 🌱 I’m currently learning ![](https://api.iconify.design/vscode-icons:file-type-typescript-official.svg)![go](https://api.iconify.design/logos:go.svg)
+- 💻 I'm currently writing ![Vue.js](https://api.iconify.design/logos:vue.svg) ![JavaScript](https://api.iconify.design/logos:javascript.svg) ![Python](https://api.iconify.design/logos:python.svg) ![ts](https://api.iconify.design/logos:typescript-icon.svg) ![c++](https://api.iconify.design/logos:c-plusplus.svg)![taildwind](https://api.iconify.design/logos:tailwindcss-icon.svg) ![django](https://api.iconify.design/logos:django-icon.svg) ![nodejs](https://api.iconify.design/logos:nodejs-icon.svg) ![vite](https://api.iconify.design/logos:vitejs.svg) ![vitest](https://api.iconify.design/logos:vitest.svg) ![HTML5](https://api.iconify.design/logos:html-5.svg) ![markdown](https://api.iconify.design/logos:markdown.svg)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAWTED&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
-- ⚡ I'm currently writing code by ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-- :package: I'm currently using 
-
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- ⚡ I'm currently writing code by ![VS Code](https://api.iconify.design/logos:visual-studio-code.svg) ![Vim](https://api.iconify.design/logos:vim.svg)
+- :package: I'm currently using ![Cent OS](https://api.iconify.design/logos:centos-icon.svg) ![IOS](https://api.iconify.design/logos:ios.svg) ![Windows](https://api.iconify.design/logos:microsoft-windows.svg) ![Ubuntu](https://api.iconify.design/logos:ubuntu.svg)
 
 
-Find me on:![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)[GitHub](https://github.com/LAWTED) | ![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)[wechat:Lawted]() | 📫 [Email](mailto:wmz@bupt.edu.cn)
+Find me on:![GitHub](https://api.iconify.design/fa6-brands:github.svg)[GitHub](https://github.com/LAWTED) | ![WeChat](https://api.iconify.design/ic:baseline-wechat.svg)[wechat:Lawted]() | ![](https://api.iconify.design/fxemoji:email.svg) [Email](mailto:wmz@bupt.edu.cn)
 
 
 ![Lawted's contribution graph](https://activity-graph.herokuapp.com/graph?username=LAWTED&theme=react-dark)
