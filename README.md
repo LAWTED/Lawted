@@ -9,11 +9,15 @@
 ## My résumé: [English](https://github.com/LAWTED/resume/blob/master/README.md) | [中文](https://github.com/LAWTED/resume/blob/master/README_zh.md)
 ###### I have spend [![wakatime](https://wakatime.com/badge/user/b538f533-3e8c-4b7b-ab49-7aab7771d31c.svg)](https://wakatime.com/@b538f533-3e8c-4b7b-ab49-7aab7771d31c) on coding
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAWTED&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
 - 🔭 I’m currently working on @Tencent ![tencent](https://api.iconify.design/icon-park:tencent-qq.svg)
 - 🌱 I’m currently learning ![](https://api.iconify.design/vscode-icons:file-type-typescript-official.svg)![go](https://api.iconify.design/logos:go.svg)
 - 💻 I'm currently writing ![Vue.js](https://api.iconify.design/logos:vue.svg) ![JavaScript](https://api.iconify.design/logos:javascript.svg) ![Python](https://api.iconify.design/logos:python.svg) ![ts](https://api.iconify.design/logos:typescript-icon.svg) ![c++](https://api.iconify.design/logos:c-plusplus.svg)![taildwind](https://api.iconify.design/logos:tailwindcss-icon.svg) ![django](https://api.iconify.design/logos:django-icon.svg) ![nodejs](https://api.iconify.design/logos:nodejs-icon.svg) ![vite](https://api.iconify.design/logos:vitejs.svg) ![vitest](https://api.iconify.design/logos:vitest.svg) ![HTML5](https://api.iconify.design/logos:html-5.svg) ![markdown](https://api.iconify.design/logos:markdown.svg)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAWTED&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+
 
 - ⚡ I'm currently writing code by ![VS Code](https://api.iconify.design/logos:visual-studio-code.svg) ![Vim](https://api.iconify.design/logos:vim.svg)
 - :package: I'm currently using ![Cent OS](https://api.iconify.design/logos:centos-icon.svg) ![IOS](https://api.iconify.design/logos:ios.svg) ![Windows](https://api.iconify.design/logos:microsoft-windows.svg) ![Ubuntu](https://api.iconify.design/logos:ubuntu.svg)
