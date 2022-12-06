@@ -26,7 +26,7 @@
 Find me on:![GitHub](https://api.iconify.design/fa6-brands:github.svg)[GitHub](https://github.com/LAWTED) | ![WeChat](https://api.iconify.design/ic:baseline-wechat.svg)[wechat:Lawted]() | ![email](https://api.iconify.design/fxemoji:email.svg) [Email](mailto:wmz@bupt.edu.cn)
 
 
-![Lawted's contribution graph](https://activity-graph.herokuapp.com/graph?username=LAWTED&theme=react-dark)
+[![Lawted's contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=LAWTED&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://user-images.githubusercontent.com/56634309/155322762-c0819ee4-864c-4fb4-bfdd-42ff716966d8.gif" width="50%"><img src="https://user-images.githubusercontent.com/56634309/155669771-831ea527-7f7a-41d0-828a-f65836719568.gif" width="50%">
 
 # LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/lawted.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/lawted.svg) ![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/lawted.svg)
