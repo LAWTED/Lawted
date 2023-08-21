@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LAWTED&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
 ## I'm **LAWTED**
 
-<p>A creator. </p>A developer. A meta-front-end engineer. A BUPT Student. 
+<p>A creator. </p><p>A developer.</p> A front-end engineer.
 
 ## My résumé: [English](https://github.com/LAWTED/resume/blob/master/README.md) | [中文](https://github.com/LAWTED/resume/blob/master/README_zh.md)
 ###### I have spend [![wakatime](https://wakatime.com/badge/user/b538f533-3e8c-4b7b-ab49-7aab7771d31c.svg)](https://wakatime.com/@b538f533-3e8c-4b7b-ab49-7aab7771d31c) on coding
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAWTED&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LAWTED&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
 
 - 🔭 I’m currently working on @alibaba ![alibaba](https://api.iconify.design/simple-icons:alibabadotcom.svg?color=%23ffffff)
 - 🌱 I’m currently learning ![](https://api.iconify.design/vscode-icons:file-type-typescript-official.svg)![go](https://api.iconify.design/logos:go.svg)
@@ -26,7 +25,7 @@
 Find me on:![GitHub](https://api.iconify.design/fa6-brands:github.svg)[GitHub](https://github.com/LAWTED) | ![WeChat](https://api.iconify.design/ic:baseline-wechat.svg)[wechat:Lawted]() | ![email](https://api.iconify.design/fxemoji:email.svg) [Email](mailto:wmz@bupt.edu.cn)
 
 
-[![Lawted's contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=LAWTED&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img src="https://user-images.githubusercontent.com/56634309/155322762-c0819ee4-864c-4fb4-bfdd-42ff716966d8.gif" width="50%"><img src="https://user-images.githubusercontent.com/56634309/155669771-831ea527-7f7a-41d0-828a-f65836719568.gif" width="50%">
 
 # LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/lawted.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/lawted.svg) ![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/lawted.svg)
