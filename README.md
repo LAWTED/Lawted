@@ -6,7 +6,7 @@
 
 ## Portfolio: [My Story](https://lawted.vercel.app)
 
-## My résumé: [English](https://github.com/LAWTED/resume/blob/master/README.md) | [中文](https://github.com/LAWTED/resume/blob/master/README_zh.md)
+## My résumé: [English](https://lawted.tech/resume)
 ###### I have spend [![wakatime](https://wakatime.com/badge/user/b538f533-3e8c-4b7b-ab49-7aab7771d31c.svg)](https://wakatime.com/@b538f533-3e8c-4b7b-ab49-7aab7771d31c) on coding
 
 
